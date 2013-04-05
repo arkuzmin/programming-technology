@@ -1,4 +1,0 @@
-programming-technology
-======================
-
-programming technology
